@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
     background-color: #EEE5E6;
-    background-image: url("pxfuel.jpg");
+    background-image: url("./pxfuel.jpg");
     background-attachment: fixed;
     background-size:contain ;
 }
