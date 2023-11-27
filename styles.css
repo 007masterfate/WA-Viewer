@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #EEE5E6;
+    background-image: url("pxfuel.jpg");
+    background-attachment: fixed;
+    background-size:contain ;
+}
+
+#chatContainer {
+    margin-top: 20px;
+}
+
+.left{
+    text-align: left;
+    background-color: white;
+    padding: 14px;
+    margin-top: 13px;
+    border-radius: 25px;
+    width: fit-content;
+    
+}
+
+.test{
+    background-color: #E3FDD7;
+    padding: 14px;
+    margin-top: 13px;
+    border-radius: 25px;
+    width: fit-content;
+}
+
+.right{
+    text-align: right;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.lsender{
+    color: #c94e28;
+    font-size: 13px;
+    font-weight: 700;
+    
+}
+.rsender{
+    display: flex;
+    color: #c94e28;
+    font-size: 13px;
+    font-weight: 700;
+}
